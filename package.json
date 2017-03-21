@@ -41,7 +41,7 @@
     "react-file-download": "^0.3.2",
     "react-redux": "^4.x.x",
     "redux": "^3.x.x",
-    "swagger-ui": "git:https://github.com/cnovak/swagger-editor.git"
+    "swagger-ui": "git:https://github.com/cnovak/swagger-editor.git#master"
   },
   "devDependencies": {
     "autoprefixer": "6.6.1",
